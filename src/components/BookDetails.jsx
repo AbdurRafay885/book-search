@@ -6,7 +6,7 @@ import coverImg from "../images/cover-not-available.png";
 import {FaArrowLeft} from "react-icons/fa";
 import { useNavigate } from 'react-router-dom';
 
-const URL = "https://openlibrary.org/works/";
+const URL = "YOUR_API_KEY_HERE";
 
 const BookDetails = () => {
 
